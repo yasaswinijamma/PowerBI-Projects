@@ -1,0 +1,6 @@
+1) No of unique Orders
+2) No of on time deliveries 
+3) Amount spent in each restaurant 
+4) Sum of total order by Year
+5) Most popular Item ordered
+6) Total items based on the food type - veg, non-veg, dessert.
