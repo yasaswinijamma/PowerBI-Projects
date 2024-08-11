@@ -1,0 +1,6 @@
+1) Total Money Spent
+2) Unique airlines taken
+3) Average Rating
+4) Total distance by year
+5) Destination in a map
+6) Average time travelled by airline
