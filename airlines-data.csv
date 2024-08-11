@@ -1,0 +1,59 @@
+Year,Airlines,Cost_in_rupees,Rating_on_5,Time_in_hours,Distance_in_kms,Source,Destination
+2015,KLM,30000,5,7,6700,Dubai,Amsterdam
+2015,Emirates,18000,4,4,2950,Chennai,Dubai
+2015,KLM,67000,4,11,9000,Amsterdam,Mexico City
+2016,United,17000,4,2,1200,Mexico City,Houston
+2015,Oman Air,14000,3,4,2500,Muscat,Chennai
+2016,KLM,58000,4,7,6700,Amsterdam,Dubai
+2017,Sri Lankan Airlines,4000,4,1,1200,Colombo,Chennai
+2017,United,14000,4,2,1200,Mexico City,Houston
+2017,Emirates,56000,5,15,13000,Houston,Dubai
+2017,Emirates,21000,5,4,2950,Dubai,Chennai
+2017,Sri Lankan Airlines,4200,4,1,1200,Chennai,Colombo
+2017,Malaysian Airlines,8000,5,4,2450,Colombo,Kuala Lumpur
+2017,Malaysian Airlines,8200,5,4,2450,Kuala Lumpur,Colombo
+2017,Malaysian Airlines,10000,4,9,6600,Kuala Lumpur,Sydney
+2017,Malaysian Airlines,10100,5,8.5,6300,Melbourne,Kuala Lumpur
+2017,Virgin Atlantic,5000,4,1.5,750,Sydney,Melbourne
+2017,Air India,30000,3,10,8000,Chennai,Paris
+2017,Jet Airways,26000,4,10,8000,Paris,Chennai
+2017,Jet Airways,27000,4,10,8000,Chennai,Paris
+2018,Easy Jet,3000,5,2,1000,Berlin,Paris
+2018,Ryan Air,2500,5,2,1000,Paris,Berlin
+2018,Indigo,3000,4,1,400,Chennai,Bengaluru
+2018,Air India,29000,4,10,8000,Paris,Chennai
+2018,Air India,31000,3,10,8000,Chennai,Paris
+2019,Etihad,12000,5,6.5,5200,Paris,Abu Dhabi
+2019,Etihad,14000,5,6.5,5200,Abu Dhabi,Paris
+2019,Etihad,11000,5,4,2850,Abu Dhabi,Chennai
+2019,Etihad,13000,5,4,2850,Chennai,Abu Dhabi
+2019,British Airways,5000,4,1.5,650,Frankfurt,London
+2019,British Airways,6000,5,1.5,650,London,Frankfurt
+2019,British Airways,9000,4,11,8600,London,San Francisco
+2019,British Airways,9500,4,11,8600,San Francisco,London
+2019,Oman Air,14000,4,4,2500,Muscat,Chennai
+2019,Oman Air,16000,5,4,2500,Chennai,Muscat
+2019,Oman Air,11000,4,7,5000,Munich,Muscat
+2019,Oman Air,13000,4,7,5000,Muscat,Munich
+2020,Air France,33000,5,10,8000,Paris,Chennai
+2021,Indigo,8000,3,1.5,800,Kochi,Male
+2021,Indigo,9000,3,1.5,800,Male,Kochi
+2021,Indigo,3500,4,1,400,Chennai,Bengaluru
+2021,Indigo,3700,4,1,400,Bengaluru,Chennai
+2022,Qatar Airways,18000,4,4.5,3300,Chennai,Doha
+2022,Qatar Airways,25000,3,6,4500,Doha,Berlin
+2023,Easy Jet,6000,3,2.5,1600,Berlin,Mallorca
+2023,Ryan Air,5700,4,2.5,1600,Mallorca,Berlin
+2023,Ryan Air,3000,5,2,900,Berlin,Banja Luka
+2023,Ryan Air,3000,5,2,900,Banja Luka,Berlin
+2023,Air France,24000,4,10,7800,Paris,Bengaluru
+2023,Air France,27000,5,10,7800,Bengaluru,Paris
+2023,Avianca,52000,5,10,8000,Madrid,Bogota
+2023,Avianca,57000,5,10,8000,Bogota,Madrid
+2023,Latam,17000,3,3,1900,Bogota,Lima
+2023,Avianca,15000,4,3,1900,Lima,Bogota
+2024,Egypt Air,17000,4,4,2900,Berlin,Cairo
+2024,Ryan Air,4000,5,2,1100,Berlin,Rome
+2024,Ryan Air,4200,4,2,1100,Rome,Berlin
+2024,Ryan Air,1700,5,1.5,820,Vilnius,Berlin
+2024,Ryan Air,3200,4,1.5,900,Berlin,Tallinn
